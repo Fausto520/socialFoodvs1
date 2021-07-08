@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "720680174316",
+    "firebase_url": "https://socil-food-default-rtdb.firebaseio.com",
+    "project_id": "socil-food",
+    "storage_bucket": "socil-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720680174316:android:932a308e78083ece05dbc9",
+        "android_client_info": {
+          "package_name": "com.fausto.socialfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720680174316-9hnkef0tkv6mv7i2380br2v6q1vlcer2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fausto.socialfood",
+            "certificate_hash": "dd01b851fe086e369c63c759200854ab405aa661"
+          }
+        },
+        {
+          "client_id": "720680174316-vs6i46oacqprd1ac0mdp0ifdon5kmb5f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fausto.socialfood",
+            "certificate_hash": "9ffe53f7b68dff47aed6083a14fdee34be0f0b12"
+          }
+        },
+        {
+          "client_id": "720680174316-620pp7e2026b5funk4qjdcp9f5nluasb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2SbUcS-JRg_WOEX3FwcjFc1HqlMHciSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720680174316-620pp7e2026b5funk4qjdcp9f5nluasb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

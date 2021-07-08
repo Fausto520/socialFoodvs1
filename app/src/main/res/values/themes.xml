@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SocialFood" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/fondo</item>
+        <item name="colorPrimaryVariant">@color/fondo</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/colorsecundario</item>
+        <item name="colorSecondaryVariant">@color/colorsecundario</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+
+    <style name="BottomNavegation">
+        
+        <item name="android:background">@color/gris_claro</item>
+        <item name="itemIconTint">@color/gris_light2</item>
+        <item name="itemTextColor">@color/gris_light2</item>
+
+    </style>
+
+
+    <style name="ActionBarHiden" parent="Theme.AppCompat.DayNight.Dialog.Alert">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true </item>
+    </style>
+
+</resources>

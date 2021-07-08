@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">socialFood</string>
+    <string name="splashTitulo">Social Food</string>
+    <string name="iniciar_sesion">Entrar</string>
+    <string name="o">---- o ----</string>
+    <string name="cerrarSecion">Cerrar sesion</string>
+    <string name="inicioConGoogle">Ingresa con GOOGLE</string>
+
+    <string name="registrarse">Registrate</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo_electronico">Correo electronico</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="fotoPerfil">Foto de perfil</string>
+    <string name="cancelar">Cancelar</string>
+
+    <string name="noInicioSecion">Error al iniciar sesion, intentelo de nuevo</string>
+    <string name="bn_entendido">Entendido</string>
+
+
+    <string name="perfirlNombreText">Nombre: </string>
+    <string name="perfilNombreUser">Prueba</string>
+    <string name="perfilCorreoText">Correo: </string>
+    <string name="perfilCorreoUser">prueba@correo.es</string>
+    <string name="perfilImagen"></string>
+    <string name="perfilEdadText">Edad:</string>
+    <string name="perfilEdaduser">20</string>
+
+
+    <string name="ensaladas">Ensaladas</string>
+    <string name="salsas">Salsas</string>
+    <string name="hamburgusas">Hamburguesas</string>
+    <string name="pizzas">Pizzas</string>
+    <string name="sopas_cremas">Sopas</string>
+    <string name="receta_arroz">Arroces</string>
+
+
+    <string name="ingredientestxt">Ingredientes: </string>
+    <string name="veringredientesReceta">""</string>
+    <string name="procedimientotxt">Procedimiento: </string>
+    <string name="verprocedimientoReceta">""</string>
+    <string name="descripociontxt">Descripción</string>
+    <string name="verDescripcion">""</string>
+
+
+    <string name="anadirReceta_Titulo">Titulo: </string>
+    <string name="anadirReceta_Ingedientes">Ingredientes: </string>
+    <string name="anadirReceta_Procedimineto">Procedimiento: </string>
+
+
+
+
+    <string name="nombreIngrediente">Nombre del Ingrediente:</string>
+    <string name="cantidadIngrediente">Cantidad:</string>
+    <string name="aniadirIngrediente">Añadir</string>
+    <string name="aniadirDescripcion">Descripción:</string>
+    <string name="aniadirCategoria">Categoria:</string>
+    <string name="aniadirReceta">Aceptar</string>
+    <string name="cancelarReceta">Clear</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
